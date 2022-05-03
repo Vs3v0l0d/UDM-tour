@@ -15,10 +15,52 @@ div{
 }
 #logo{
     position: relative;
-width: 331px;
-height: 110px;
-left: 240px;
-top: 0px;
-
-background: url(../img/udm.png);
+    width: 257px;
+    height: 80px;
+    left: 1px;
+    top: 0px;
+    overflow: hidden;
+}
+img{
+    position: absolute;
+    width: 385px;
+    height: 310px;
+    left: -28%;
+    top: -130%;
+}
+#glavnaya1{   
+    position: absolute;
+    width: 130px;
+    height: 81px;
+    left: 259px;
+    top: 0px;
+    
+    background: #DB0720;
+}
+#kuhna{  
+    position: absolute;
+    width: 130px;
+    height: 81px;
+    left: 389px;
+    top: 0px;
+    
+    background: #2A2A29;
+}
+#{  
+    position: absolute;
+    width: 130px;
+    height: 81px;
+    left: 389px;
+    top: 0px;
+    
+    background: #2A2A29;
+}
+p{
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+border: 1px solid black;
+color: #FFFFFF;
 }
