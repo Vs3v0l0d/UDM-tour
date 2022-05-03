@@ -2,7 +2,7 @@ body{
               font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 div{
-
+    
 }
 #shapka{
     position: absolute;
@@ -23,9 +23,9 @@ div{
 }
 img{
     position: absolute;
-    width: 385px;
+    width: 372px;
     height: 310px;
-    left: -28%;
+    left: -25.5%;
     top: -130%;
 }
 #glavnaya1{   
@@ -46,21 +46,144 @@ img{
     
     background: #2A2A29;
 }
-#{  
+#eco{
     position: absolute;
     width: 130px;
     height: 81px;
-    left: 389px;
+    left: 519px;
     top: 0px;
     
     background: #2A2A29;
 }
-p{
+#hotel{
+    position: absolute;
+    width: 130px;
+    height: 81px;
+    left: 649px;
+    top: 0px;
+    
+    background: #2A2A29;
+}
+#prog{
+    position: absolute;
+    width: 130px;
+    height: 81px;
+    left: 779px;
+    top: 0px;
+    
+    background: #2A2A29;
+}
+#p{
+    font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 26px;
 line-height: 30px;
 text-align: center;
-border: 1px solid black;
 color: #FFFFFF;
+}
+#po{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+#one{
+    position: absolute;
+    width: 1440px;
+    height: 531px;
+    left: 240px;
+    top: 81px;
+    background: url(../img/glavnaya_peizaj.jpg);
+    background-size: cover;
+}
+#two{
+    position: absolute;
+    width: 1370px;
+    height: 195px;
+    left: 36px;
+    top: 160px;
+
+    background: #36483E;
+}
+#kuh{
+    position: absolute;
+width: 720px;
+height: 348px;
+left: 240px;
+top: 612px;
+background: url(../img/glavnaya_kuhna.jpg);
+background-size: cover;
+}
+#ecotu{
+    position: absolute;
+width: 720px;
+height: 348px;
+left: 960px;
+top: 612px;
+background: url(../img/glavnaya_ecoturizm.jpg);
+background-size: cover;
+}
+#hot{
+    position: absolute;
+width: 720px;
+height: 348px;
+left: 240px;
+top: 960px;
+background: url(../img/glavnaya_oteli.jpg);
+background-size: cover;
+}
+#turi{
+    position: absolute;
+width: 720px;
+height: 348px;
+left: 960px;
+top: 960px;
+background: url(../img/glavnaya_tur.jpg);
+background-size: cover;
+}
+#white{
+    position: absolute;
+    width: 720px;
+    height: 207px;
+    left: 0px;
+    top: 0px;
+
+background: rgba(255, 255, 255, 0.705);
+}
+#pw{
+    position: absolute;
+    width: 706px;
+    height: 138px;
+    left: 13px;
+    top: -10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+border: 1px solid red;
+color: #000000;
+
+
+}
+#pe{
+    position: absolute;
+    width: 247px;
+    height: 28px;
+    left: 13px;
+    top: 125px;
+border: 1px solid red;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
 }
