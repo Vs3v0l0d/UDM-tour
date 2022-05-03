@@ -1,9 +1,6 @@
 body{
               font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-div{
-    
-}
 #shapka{
     position: absolute;
     width: 1440px;
@@ -34,7 +31,7 @@ img{
     height: 81px;
     left: 259px;
     top: 0px;
-    
+
     background: #DB0720;
 }
 #kuhna{  
@@ -43,36 +40,48 @@ img{
     height: 81px;
     left: 389px;
     top: 0px;
-    
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    user-select: none; /* убирать выделение текста */
     background: #2A2A29;
 }
+#kuhna:hover { background: #DB0720; } /* при наведении курсора мышки */
+#kuhna:active { background: #ffffffbe; } /* при нажатии */
 #eco{
     position: absolute;
     width: 130px;
     height: 81px;
     left: 519px;
     top: 0px;
-    
+    text-decoration: none;
+    user-select: none;
     background: #2A2A29;
 }
+#eco:hover { background: #DB0720; }
+#eco:active { background: #ffffffbe; }
 #hotel{
     position: absolute;
     width: 130px;
     height: 81px;
     left: 649px;
     top: 0px;
-    
+    text-decoration: none;
+    user-select: none;
     background: #2A2A29;
 }
+#hotel:hover { background: #DB0720; }
+#hotel:active { background: #ffffffbe; }
 #prog{
     position: absolute;
     width: 130px;
     height: 81px;
     left: 779px;
     top: 0px;
-    
+    text-decoration: none;
+    user-select: none;
     background: #2A2A29;
 }
+#prog:hover { background: #DB0720; }
+#prog:active { background: #ffffffbe; }
 #p{
     font-family: 'Inter';
 font-style: normal;
@@ -175,7 +184,7 @@ color: #000000;
 }
 #pe{
     position: absolute;
-    width: 247px;
+    width: 177px;
     height: 28px;
     left: 13px;
     top: 125px;
@@ -186,4 +195,8 @@ font-weight: 700;
 font-size: 24px;
 line-height: 29px;
 color: #000000;
+text-decoration: none;
+user-select: none;
 }
+#pe:hover { color: #DB0720; }
+#pe:active { color: #ffffff; }
