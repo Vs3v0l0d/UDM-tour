@@ -60,7 +60,7 @@ top: -142%;
 #glavnaya1{   
 position: absolute;
 width: 130px;
-height: 80px;
+height: 82px;
 top: 0px;
 
 background: #2A2A29;
@@ -70,7 +70,7 @@ background: #2A2A29;
 #kuhna{  
 position: absolute;
 width: 130px;
-height: 80px;
+height: 82px;
 top: 0px;
 text-decoration: none; /* убирать подчёркивание у ссылок */
 user-select: none; /* убирать выделение текста */
@@ -79,7 +79,7 @@ background: #DB0720;
 #eco{
 position: absolute;
 width: 130px;
-height: 80px;
+height: 82px;
 top: 0px;
 text-decoration: none;
 user-select: none;
@@ -90,7 +90,7 @@ background: #2A2A29;
 #hotel{
 position: absolute;
 width: 130px;
-height: 80px;
+height: 82px;
 top: 0px;
 text-decoration: none;
 user-select: none;
@@ -101,7 +101,7 @@ background: #2A2A29;
 #prog{
 position: absolute;
 width: 130px;
-height: 80px;
+height: 82px;
 top: 0px;
 text-decoration: none;
 user-select: none;
@@ -118,21 +118,11 @@ line-height: 30px;
 text-align: center;
 color: #FFFFFF;
 }
-#po{
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 30px;
-line-height: 36px;
-text-align: center;
-
-color: #FFFFFF;
-}
 #main{
     position: absolute;
     background-color: #FFFFFF;
     left: 240px;
-    top: 81px;
+    top: 0px;
     width: 1440px;
     height: 3966px;
     
@@ -166,4 +156,165 @@ color: #FFFFFF;
     line-height: 23px;
 
     color: #FFFFFF;
+}
+#inf3{
+    position: absolute;
+    width: 735px;
+    height: 226px;
+    left: 36px;
+    top: 668px;
+    
+    background: #36483E;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+#inf4{
+    position: absolute;
+    width: 735px;
+    height: 226px;
+    left: 663px;
+    top: 934px;
+    
+    background: #36483E;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+#img1{
+    position: absolute;
+    width: 550px;
+    height: 265px;
+    left: 800px;
+    top: 128px;
+    background: url(../img/kuhnya_1.jpg);
+}
+#img2{
+    position: absolute;
+    width: 551px;
+    height: 266px;
+    left: 73px;
+    top: 381px;
+    background: url(../img/kuhnya_2.jpg);
+}
+#img3{
+    position: absolute;
+    width: 550px;
+    height: 265px;
+    left: 807px;
+    top: 648px;
+}
+#img4{
+    position: absolute;
+    width: 550px;
+    height: 265px;
+    left: 74px;
+    top: 916px;    
+}
+#txt1{
+    font-family: 'Inter';
+    position: absolute;
+    width: 1334px;
+    height: 79px;
+    left: 53px;
+    top: 1284px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #000000;
+}
+#ln{
+    position: absolute;
+    width: 1191px;
+    height: 2px;
+    left: 130px;
+    background: #2A2A29;
+}
+#mblock{
+    position: absolute;
+    width: 714px;
+    height: 477px;
+    left: 0px;
+    background: #C4C4C4;
+}
+#name{
+    position: absolute;
+    width: 310px;
+    height: 30px;
+    left: 9px;
+    top: 9px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    color: #000000;
+}
+#info{
+    position: absolute;
+    width: 669px;
+    height: 230px;
+    left: 35px;
+    top: 55px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px; 
+    color: #000000;
+}
+#adres{
+    position: absolute;
+    width: 695px;
+    height: 56px;
+    left: 9px;
+    top: 290px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;    
+}
+#tel{
+    position: absolute;
+    width: 695px;
+    height: 28px;
+    left: 9px;
+    top: 350px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+#syt{
+    position: absolute;
+    width: 695px;
+    height: 28px;
+    left: 9px;
+    top: 380px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+#img6{
+    position: absolute;
+    width: 726px;
+    height: 477px;
+    left: 714px;
 }
