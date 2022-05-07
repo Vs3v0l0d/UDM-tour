@@ -4,32 +4,60 @@ body{
 #shapka{
     position: absolute;
     width: 1440px;
-    height: 81px;
+    height: 82px;
     left: 240px;
-    top: 0px;
+    top:0px;
     
     background-color: #2A2A29;
+}
+#vk{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 13px;
+    left: 1330px;
+    text-decoration: none;
+    user-select: none;
+}
+#ds{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 13px;
+    left: 1274px;
+    text-decoration: none;
+    user-select: none;
+}
+#yt{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 13px;
+    left: 1218px;
+    text-decoration: none;
+    user-select: none;
 }
 #logo{
     position: relative;
     width: 257px;
-    height: 80px;
+    height: 71px;
     left: 1px;
     top: 0px;
     overflow: hidden;
+
 }
-img{
+#qwe{
     position: absolute;
-    width: 372px;
-    height: 310px;
-    left: -25.5%;
-    top: -130%;
+    width: 319px;
+    height: 301px;
+    left: -15.5%;
+    top: -142%;
+    
 }
 #glavnaya1{   
     position: absolute;
     width: 130px;
-    height: 81px;
-    left: 259px;
+    height: 80px;
     top: 0px;
 
     background: #DB0720;
@@ -37,8 +65,7 @@ img{
 #kuhna{  
     position: absolute;
     width: 130px;
-    height: 81px;
-    left: 389px;
+    height: 80px;
     top: 0px;
     text-decoration: none; /* убирать подчёркивание у ссылок */
     user-select: none; /* убирать выделение текста */
@@ -49,8 +76,7 @@ img{
 #eco{
     position: absolute;
     width: 130px;
-    height: 81px;
-    left: 519px;
+    height: 80px;
     top: 0px;
     text-decoration: none;
     user-select: none;
@@ -61,8 +87,7 @@ img{
 #hotel{
     position: absolute;
     width: 130px;
-    height: 81px;
-    left: 649px;
+    height: 80px;
     top: 0px;
     text-decoration: none;
     user-select: none;
@@ -73,8 +98,7 @@ img{
 #prog{
     position: absolute;
     width: 130px;
-    height: 81px;
-    left: 779px;
+    height: 80px;
     top: 0px;
     text-decoration: none;
     user-select: none;
@@ -196,5 +220,5 @@ color: #000000;
 text-decoration: none;
 user-select: none;
 }
-#pe:hover { color: #DB0720; }
-#pe:active { color: #ffffff; }
+#pe:hover { color: #36483E; }
+#pe:active { color: #2A2A29; }

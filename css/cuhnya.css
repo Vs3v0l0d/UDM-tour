@@ -1,0 +1,169 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#shapka{
+position: absolute;
+width: 1440px;
+height: 82px;
+left: 240px;
+top: 0px;
+
+background-color: #2A2A29;
+}
+#vk{
+position: absolute;
+width: 55px;
+height: 55px;
+top: 13px;
+left: 1330px;
+text-decoration: none;
+user-select: none;
+background-color: #ffffff00;
+}
+#ds{
+position: absolute;
+width: 55px;
+height: 55px;
+top: 13px;
+left: 1274px;
+text-decoration: none;
+user-select: none;
+background-color: #ffffff00;
+}
+#yt{
+position: absolute;
+width: 55px;
+height: 55px;
+top: 13px;
+left: 1218px;
+text-decoration: none;
+user-select: none;
+background-color: #ffffff00;
+}
+#logo{
+position: relative;
+width: 257px;
+height: 71px;
+left: 1px;
+top: 0px;
+overflow: hidden;
+background-color: #ffffff00;
+}
+#qwe{
+position: absolute;
+width: 319px;
+height: 301px;
+left: -15.5%;
+top: -142%;
+
+}
+#glavnaya1{   
+position: absolute;
+width: 130px;
+height: 80px;
+top: 0px;
+
+background: #2A2A29;
+}
+#glavnaya1:hover { background: #DB0720;}
+#glavnaya1:active { background: #ffffffbe;}
+#kuhna{  
+position: absolute;
+width: 130px;
+height: 80px;
+top: 0px;
+text-decoration: none; /* убирать подчёркивание у ссылок */
+user-select: none; /* убирать выделение текста */
+background: #DB0720;
+}
+#eco{
+position: absolute;
+width: 130px;
+height: 80px;
+top: 0px;
+text-decoration: none;
+user-select: none;
+background: #2A2A29;
+}
+#eco:hover { background: #DB0720; }
+#eco:active { background: #ffffffbe; }
+#hotel{
+position: absolute;
+width: 130px;
+height: 80px;
+top: 0px;
+text-decoration: none;
+user-select: none;
+background: #2A2A29;
+}
+#hotel:hover { background: #DB0720; }
+#hotel:active { background: #ffffffbe; }
+#prog{
+position: absolute;
+width: 130px;
+height: 80px;
+top: 0px;
+text-decoration: none;
+user-select: none;
+background: #2A2A29;
+}
+#prog:hover { background: #DB0720; }
+#prog:active { background: #ffffffbe; }
+#p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+color: #FFFFFF;
+}
+#po{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #FFFFFF;
+}
+#main{
+    position: absolute;
+    background-color: #FFFFFF;
+    left: 240px;
+    top: 81px;
+    width: 1440px;
+    height: 3966px;
+    
+}
+#inf1{
+    position:absolute;
+    width: 735px;
+    height: 226px;
+    left: 36px;
+    top: 143px;
+    background-color: #36483E;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+#inf2{
+    position: absolute;
+    width: 735px;
+    height: 226px;
+    left: 663px;
+    top: 402px;
+    background: #36483E;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
