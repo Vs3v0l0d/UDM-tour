@@ -76,6 +76,8 @@ text-decoration: none; /* убирать подчёркивание у ссыл�
 user-select: none; /* убирать выделение текста */
 background: #DB0720;
 }
+#kuhna:hover { background: #DB0720; }
+#kuhna:active { background: #ffffffbe; }
 #eco{
 position: absolute;
 width: 130px;

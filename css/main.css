@@ -7,7 +7,7 @@ body{
     height: 82px;
     left: 240px;
     top:0px;
-    
+    z-index: 1;
     background-color: #2A2A29;
 }
 #vk{
@@ -57,7 +57,7 @@ body{
 #glavnaya1{   
     position: absolute;
     width: 130px;
-    height: 80px;
+    height: 82px;
     top: 0px;
 
     background: #DB0720;
@@ -65,7 +65,7 @@ body{
 #kuhna{  
     position: absolute;
     width: 130px;
-    height: 80px;
+    height: 82px;
     top: 0px;
     text-decoration: none; /* убирать подчёркивание у ссылок */
     user-select: none; /* убирать выделение текста */
@@ -76,7 +76,7 @@ body{
 #eco{
     position: absolute;
     width: 130px;
-    height: 80px;
+    height: 82px;
     top: 0px;
     text-decoration: none;
     user-select: none;
@@ -87,7 +87,7 @@ body{
 #hotel{
     position: absolute;
     width: 130px;
-    height: 80px;
+    height: 82px;
     top: 0px;
     text-decoration: none;
     user-select: none;
@@ -98,7 +98,7 @@ body{
 #prog{
     position: absolute;
     width: 130px;
-    height: 80px;
+    height: 82px;
     top: 0px;
     text-decoration: none;
     user-select: none;
@@ -135,6 +135,7 @@ color: #FFFFFF;
     top: 81px;
     background: url(../img/glavnaya_peizaj.jpg);
     background-size: cover;
+    z-index: 0;
 }
 #two{
     position: absolute;
