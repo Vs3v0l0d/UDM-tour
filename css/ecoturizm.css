@@ -85,7 +85,7 @@ height: 82px;
 top: 0px;
 text-decoration: none;
 user-select: none;
-background: #2A2A29;
+background: #DB0720;
 }
 #eco:hover { background: #DB0720; }
 #eco:active { background: #ffffffbe; }
@@ -96,7 +96,7 @@ height: 82px;
 top: 0px;
 text-decoration: none;
 user-select: none;
-background: #DB0720;
+background: #2A2A29;
 }
 #hotel:hover { background: #DB0720; }
 #hotel:active { background: #ffffffbe; }
