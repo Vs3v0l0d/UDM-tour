@@ -62,6 +62,8 @@ top: 0px;
 
 background: #2A2A29;
 }
+#glavnaya1:hover { background: #DB0720; }
+#glavnaya1:active { background: #ffffffbe; }
 #kuhna{  
 position: absolute;
 width: 130px;
