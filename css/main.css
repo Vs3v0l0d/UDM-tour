@@ -203,7 +203,7 @@ background: rgba(255, 255, 255, 0.705);
 }
 #pw{
     position: absolute;
-    width: 706px;
+    width: 100%;
     height: 138px;
     left: 13px;
     top: -10px;

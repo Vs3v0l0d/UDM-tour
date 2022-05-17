@@ -3,19 +3,19 @@ body{
 }
 #shapka{
 position: absolute;
-width: 1440px;
-height: 82px;
-left: 240px;
+width: 75%;
+height: 7.5%;
+left: 12.5%;
 top:0px;
 z-index: 1;
 background-color: #2A2A29;
-}
+}   
 #vk{
 position: absolute;
 width: 55px;
 height: 55px;
 top: 13px;
-left: 1330px;
+left: 92%;
 text-decoration: none;
 user-select: none;
 }
@@ -24,7 +24,7 @@ position: absolute;
 width: 55px;
 height: 55px;
 top: 13px;
-left: 1274px;
+left: 88%;
 text-decoration: none;
 user-select: none;
 }
@@ -33,7 +33,7 @@ position: absolute;
 width: 55px;
 height: 55px;
 top: 13px;
-left: 1218px;
+left: 84%;
 text-decoration: none;
 user-select: none;
 }
