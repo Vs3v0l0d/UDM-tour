@@ -62,7 +62,7 @@ body{
     height: 100%;
     top: 0px;
     left: 18%;
-    background: #DB0720;
+    background: #2A2A29;
 }
 #glavnaya1:hover { background: #DB0720; }
 #glavnaya1:active { background: #ffffffbe; }
@@ -98,7 +98,7 @@ body{
     height: 100%;
     text-decoration: none;
     user-select: none;
-    background: #2A2A29;
+    background: #DB0720;
 }
 #hotel:hover { background: #DB0720; }
 #hotel:active { background: #ffffffbe; }
@@ -158,12 +158,24 @@ text-align: center;
     color: #FFFFFF;
     background: #36483E; 
 }
-#ln{
+#img2{
     position: absolute;
-    width: 82.7%;
-    height: 0.05%;
-    left: 8.65%;
-    background: #2A2A29;
+    width: 50%;
+    height: 12.5%;
+    left: 50%;
+}
+#syt{
+    position: absolute;
+    width: 695px;
+    height: 28px;
+    left: 9px;
+    top: 380px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150%;
+    line-height: 90%;
+    color: #000000;
 }
 #mblock{
     position: absolute;
@@ -181,8 +193,8 @@ text-align: center;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 26px;
-    line-height: 30px;
+    font-size: 200%;
+    line-height: 90%;
     color: #000000;
 }
 #info{
@@ -194,8 +206,8 @@ text-align: center;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 23px; 
+    font-size: 120%;
+    line-height: 100%; 
     color: #000000;
 }
 #adres{
@@ -207,8 +219,8 @@ text-align: center;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
+    font-size: 150%;
+    line-height: 90%;
     color: #000000;    
 }
 #tel{
@@ -220,26 +232,14 @@ text-align: center;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
+    font-size: 150%;
+    line-height: 90%;
     color: #000000;
 }
-#syt{
+#ln{
     position: absolute;
-    width: 695px;
-    height: 28px;
-    left: 9px;
-    top: 380px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    color: #000000;
-}
-#img2{
-    position: absolute;
-    width: 50%;
-    height: 12.5%;
-    left: 50%;
+    width: 82.7%;
+    height: 0.05%;
+    left: 8.65%;
+    background: #2A2A29;
 }

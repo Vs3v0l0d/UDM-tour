@@ -2,167 +2,190 @@ body{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #shapka{
-position: absolute;
-width: 1440px;
-height: 82px;
-left: 240px;
-top: 0px;
-
-background-color: #2A2A29;
+    position: absolute;
+    width: 75%;
+    height: 8.8%;
+    left: 12.5%;
+    top:0px;
+    z-index: 1;
+    background-color: #2A2A29;
 }
 #vk{
-position: absolute;
-width: 55px;
-height: 55px;
-top: 13px;
-left: 1330px;
-text-decoration: none;
-user-select: none;
-background-color: #ffffff00;
+    position: absolute;
+    width: 3.8%;
+    height: 67.9%;
+    top: 16%;
+    left: 92%;
+    text-decoration: none;
+    user-select: none;
 }
 #ds{
-position: absolute;
-width: 55px;
-height: 55px;
-top: 13px;
-left: 1274px;
-text-decoration: none;
-user-select: none;
-background-color: #ffffff00;
+    position: absolute;
+    width: 3.8%;
+    height: 67.9%;
+    top: 16%;
+    left: 88%;
+    text-decoration: none;
+    user-select: none;
 }
 #yt{
-position: absolute;
-width: 55px;
-height: 55px;
-top: 13px;
-left: 1218px;
-text-decoration: none;
-user-select: none;
-background-color: #ffffff00;
+    position: absolute;
+    width: 3.8%;
+    height: 67.9%;
+    top: 16%;
+    left: 84%;
+    text-decoration: none;
+    user-select: none;
 }
 #logo{
-position: relative;
-width: 257px;
-height: 71px;
-left: 1px;
-top: 0px;
-overflow: hidden;
-background-color: #ffffff00;
+    position: relative;
+    width: 257px;
+    height: 71px;
+    left: 1px;
+    top: 0px;
+    overflow: hidden;
+
 }
 #qwe{
-position: absolute;
-width: 319px;
-height: 301px;
-left: -15.5%;
-top: -142%;
-
+    position: absolute;
+    width: 319px;
+    height: 301px;
+    left: -15.5%;
+    top: -142%;
+    
 }
 #glavnaya1{   
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    height: 100%;
+    top: 0px;
+    left: 18%;
+    background: #2A2A29;
 }
-#glavnaya1:hover { background: #DB0720;}
-#glavnaya1:active { background: #ffffffbe;}
+#glavnaya1:hover { background: #DB0720; }
+#glavnaya1:active { background: #ffffffbe; }
 #kuhna{  
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none; /* убирать подчёркивание у ссылок */
-user-select: none; /* убирать выделение текста */
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 27%;
+    height: 100%;
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    user-select: none; /* убирать выделение текста */
+    background: #2A2A29;
 }
-#kuhna:hover { background: #DB0720; }
-#kuhna:active { background: #ffffffbe; }
+#kuhna:hover { background: #DB0720; } /* при наведении курсора мышки */
+#kuhna:active { background: #ffffffbe; } /* при нажатии */
 #eco{
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none;
-user-select: none;
-background: #DB0720;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 36%;
+    height: 100%;
+    text-decoration: none;
+    user-select: none;
+    background: #DB0720;
 }
 #eco:hover { background: #DB0720; }
 #eco:active { background: #ffffffbe; }
 #hotel{
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none;
-user-select: none;
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 45%;
+    height: 100%;
+    text-decoration: none;
+    user-select: none;
+    background: #2A2A29;
 }
 #hotel:hover { background: #DB0720; }
 #hotel:active { background: #ffffffbe; }
 #prog{
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none;
-user-select: none;
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 54%;
+    height: 100%;
+    text-decoration: none;
+    user-select: none;
+    background: #2A2A29;
 }
 #prog:hover { background: #DB0720; }
 #prog:active { background: #ffffffbe; }
 #p{
-font-family: 'Inter';
+    position: relative;
+    font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
-font-size: 26px;
-line-height: 30px;
-text-align: center;
+font-size: 175%;
+line-height: 30%;
+top: 10%;
 color: #FFFFFF;
+text-align: center;
 }
 #main{
     position: absolute;
     background-color: #FFFFFF;
-    left: 240px;
+    left: 12.5%;
     top: 0px;
-    width: 1440px;    
+    width: 75%;
+    height: 400%;    
 }
 #img1{
     position: absolute;
-    width: 1440px;
-    height: 662px;
+    width: 100%;
+    height: 17%;
     left: 0px;
-    top: 81px;
+    top: 2.1%;
     overflow: hidden;
 }
 #inf1{
     position: absolute;
-    width: 1350px;
-    height: 226px;
-    left: 51px;
-    top: 299px;
+    width: 93.75%;
+    height: 7%;
+    left: 3.125%;
+    top: 6.5%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
-    line-height: 37px;
+    font-size: 200%;
+    line-height: 100%;
     display: flex;
     align-items: center;
     text-align: center;
     color: #FFFFFF;
     background: #36483E; 
 }
+#img2{
+    position: absolute;
+    width: 50%;
+    height: 12.5%;
+    left: 50%;
+}
 #ln{
     position: absolute;
-    width: 1191px;
-    height: 2px;
-    left: 130px;
+    width: 82.7%;
+    height: 0.05%;
+    left: 8.65%;
     background: #2A2A29;
+}
+#syt{
+    position: absolute;
+    width: 695px;
+    height: 28px;
+    left: 9px;
+    top: 380px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150%;
+    line-height: 90%;
+    color: #000000;
 }
 #mblock{
     position: absolute;
-    width: 726px;
-    height: 477px;
+    width: 50%;
+    height: 12.5%;
     left: 0px;
     background: #C4C4C4;
 }
@@ -175,8 +198,8 @@ color: #FFFFFF;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 26px;
-    line-height: 30px;
+    font-size: 200%;
+    line-height: 90%;
     color: #000000;
 }
 #info{
@@ -188,8 +211,8 @@ color: #FFFFFF;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 23px; 
+    font-size: 120%;
+    line-height: 100%; 
     color: #000000;
 }
 #adres{
@@ -201,8 +224,8 @@ color: #FFFFFF;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
+    font-size: 150%;
+    line-height: 90%;
     color: #000000;    
 }
 #tel{
@@ -214,26 +237,7 @@ color: #FFFFFF;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
+    font-size: 150%;
+    line-height: 90%;
     color: #000000;
-}
-#syt{
-    position: absolute;
-    width: 695px;
-    height: 28px;
-    left: 9px;
-    top: 380px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    color: #000000;
-}
-#img2{
-    position: absolute;
-    width: 714px;
-    height: 477px;
-    left: 726px;
 }
