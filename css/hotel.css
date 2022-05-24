@@ -62,6 +62,11 @@ body{
     height: 100%;
     top: 0px;
     left: 18%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     background: #2A2A29;
 }
 #glavnaya1:hover { background: #DB0720; }
@@ -72,6 +77,11 @@ body{
     top: 0px;
     left: 27%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none; /* убирать подчёркивание у ссылок */
     user-select: none; /* убирать выделение текста */
     background: #2A2A29;
@@ -84,6 +94,11 @@ body{
     top: 0px;
     left: 36%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none;
     user-select: none;
     background: #2A2A29;
@@ -96,6 +111,11 @@ body{
     top: 0px;
     left: 45%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none;
     user-select: none;
     background: #DB0720;
@@ -108,6 +128,11 @@ body{
     top: 0px;
     left: 54%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none;
     user-select: none;
     background: #2A2A29;
@@ -166,10 +191,10 @@ text-align: center;
 }
 #syt{
     position: absolute;
-    width: 695px;
-    height: 28px;
-    left: 9px;
-    top: 380px;
+    width: 100%;
+    height: 3%;
+    left: 1%;
+    top: 56%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -186,10 +211,10 @@ text-align: center;
 }
 #name{
     position: absolute;
-    width: 700px;
-    height: 30px;
-    left: 9px;
-    top: 9px;
+    width: 100%;
+    height: 3%;
+    left: 1%;
+    top: -5%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -199,10 +224,10 @@ text-align: center;
 }
 #info{
     position: absolute;
-    width: 669px;
-    height: 230px;
-    left: 35px;
-    top: 55px;
+    width: 92%;
+    height: 20%;
+    left: 4%;
+    top: 13%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -212,10 +237,10 @@ text-align: center;
 }
 #adres{
     position: absolute;
-    width: 695px;
-    height: 56px;
-    left: 9px;
-    top: 290px;
+    width: 100%;
+    height: 3%;
+    left: 1%;
+    top: 63%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -225,10 +250,10 @@ text-align: center;
 }
 #tel{
     position: absolute;
-    width: 695px;
-    height: 28px;
-    left: 9px;
-    top: 350px;
+    width: 100%;
+    height: 3%;
+    left: 1%;
+    top: 75%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
