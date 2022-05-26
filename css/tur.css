@@ -118,7 +118,7 @@ body{
     line-height: 90%;
     text-decoration: none;
     user-select: none;
-    background: #DB0720;
+    background: #2A2A29;
 }
 #hotel:hover { background: #DB0720; }
 #hotel:active { background: #ffffffbe; }
@@ -135,7 +135,7 @@ body{
     line-height: 90%;
     text-decoration: none;
     user-select: none;
-    background: #2A2A29;
+    background: #DB0720;
 }
 #prog:hover { background: #DB0720; }
 #prog:active { background: #ffffffbe; }
