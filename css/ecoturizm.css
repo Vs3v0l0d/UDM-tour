@@ -169,19 +169,6 @@ text-align: center;
     left: 8.65%;
     background: #2A2A29;
 }
-#syt{
-    position: absolute;
-    width: 695px;
-    height: 28px;
-    left: 9px;
-    top: 380px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 150%;
-    line-height: 90%;
-    color: #000000;
-}
 #mblock{
     position: absolute;
     width: 50%;
@@ -189,12 +176,25 @@ text-align: center;
     left: 0px;
     background: #C4C4C4;
 }
+#syt{
+    position: absolute;
+    width: 99%;
+    height: 5%;
+    left: 1%;
+    top: 69%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150%;
+    line-height: 90%;
+    color: #000000;
+}
 #name{
     position: absolute;
-    width: 700px;
-    height: 30px;
-    left: 9px;
-    top: 9px;
+    width: 99%;
+    height: 5%;
+    left: 1%;
+    top: -4%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -204,10 +204,9 @@ text-align: center;
 }
 #info{
     position: absolute;
-    width: 669px;
-    height: 230px;
-    left: 35px;
-    top: 55px;
+    width: 95%;
+    left: 5%;
+    top: 8%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -217,10 +216,10 @@ text-align: center;
 }
 #adres{
     position: absolute;
-    width: 695px;
-    height: 56px;
-    left: 9px;
-    top: 290px;
+    width: 99%;
+    height: 10%;
+    left: 1%;
+    top: 75%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -230,10 +229,10 @@ text-align: center;
 }
 #tel{
     position: absolute;
-    width: 695px;
-    height: 28px;
-    left: 9px;
-    top: 350px;
+    width: 99%;
+    height: 5%;
+    left: 1%;
+    top: 86%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;

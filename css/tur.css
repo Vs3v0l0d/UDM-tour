@@ -1,119 +1,127 @@
 body{
+    width: 100%;
+    height: 100%;        
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #shapka{
-position: absolute;
-width: 75%;
-height: 7.5%;
-left: 12.5%;
-top:0px;
-z-index: 1;
-background-color: #2A2A29;
-}   
+    position: absolute;
+    width: 75%;
+    height: 8.8%;
+    left: 12.5%;
+    top:0px;
+    z-index: 1;
+    background-color: #2A2A29;
+}
 #vk{
-position: absolute;
-width: 55px;
-height: 55px;
-top: 13px;
-left: 92%;
-text-decoration: none;
-user-select: none;
+    position: absolute;
+    width: 3.8%;
+    height: 67.9%;
+    top: 16%;
+    left: 92%;
+    text-decoration: none;
+    user-select: none;
 }
 #ds{
-position: absolute;
-width: 55px;
-height: 55px;
-top: 13px;
-left: 88%;
-text-decoration: none;
-user-select: none;
+    position: absolute;
+    width: 3.8%;
+    height: 67.9%;
+    top: 16%;
+    left: 88%;
+    text-decoration: none;
+    user-select: none;
 }
 #yt{
-position: absolute;
-width: 55px;
-height: 55px;
-top: 13px;
-left: 84%;
-text-decoration: none;
-user-select: none;
+    position: absolute;
+    width: 3.8%;
+    height: 67.9%;
+    top: 16%;
+    left: 84%;
+    text-decoration: none;
+    user-select: none;
 }
 #logo{
-position: relative;
-width: 257px;
-height: 71px;
-left: 1px;
-top: 0px;
-overflow: hidden;
+    position: relative;
+    width: 257px;
+    height: 71px;
+    left: 1px;
+    top: 0px;
+    overflow: hidden;
 
 }
 #qwe{
-position: absolute;
-width: 319px;
-height: 301px;
-left: -15.5%;
-top: -142%;
-
+    position: absolute;
+    width: 319px;
+    height: 301px;
+    left: -15.5%;
+    top: -142%;
+    
 }
 #glavnaya1{   
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    height: 100%;
+    top: 0px;
+    left: 18%;
+    background: #2A2A29;
 }
 #glavnaya1:hover { background: #DB0720; }
 #glavnaya1:active { background: #ffffffbe; }
 #kuhna{  
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none; /* убирать подчёркивание у ссылок */
-user-select: none; /* убирать выделение текста */
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 27%;
+    height: 100%;
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    user-select: none; /* убирать выделение текста */
+    background: #2A2A29;
 }
 #kuhna:hover { background: #DB0720; } /* при наведении курсора мышки */
 #kuhna:active { background: #ffffffbe; } /* при нажатии */
 #eco{
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none;
-user-select: none;
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 36%;
+    height: 100%;
+    text-decoration: none;
+    user-select: none;
+    background: #2A2A29;
 }
 #eco:hover { background: #DB0720; }
 #eco:active { background: #ffffffbe; }
 #hotel{
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none;
-user-select: none;
-background: #2A2A29;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 45%;
+    height: 100%;
+    text-decoration: none;
+    user-select: none;
+    background: #2A2A29;
 }
 #hotel:hover { background: #DB0720; }
 #hotel:active { background: #ffffffbe; }
 #prog{
-position: absolute;
-width: 130px;
-height: 82px;
-top: 0px;
-text-decoration: none;
-user-select: none;
-background: #DB0720;
+    position: absolute;
+    width:  9%;
+    top: 0px;
+    left: 54%;
+    height: 100%;
+    text-decoration: none;
+    user-select: none;
+    background: #DB0720;
 }
 #prog:hover { background: #DB0720; }
 #prog:active { background: #ffffffbe; }
 #p{
-font-family: 'Inter';
+    position: relative;
+    font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
-font-size: 26px;
-line-height: 30px;
-text-align: center;
+font-size: 175%;
+line-height: 30%;
+top: 10%;
 color: #FFFFFF;
+text-align: center;
 }
