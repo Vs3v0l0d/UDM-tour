@@ -62,6 +62,11 @@ body{
     height: 100%;
     top: 0px;
     left: 18%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     background: #2A2A29;
 }
 #glavnaya1:hover { background: #DB0720; }
@@ -72,6 +77,11 @@ body{
     top: 0px;
     left: 27%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none; /* убирать подчёркивание у ссылок */
     user-select: none; /* убирать выделение текста */
     background: #2A2A29;
@@ -84,6 +94,11 @@ body{
     top: 0px;
     left: 36%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none;
     user-select: none;
     background: #2A2A29;
@@ -96,9 +111,14 @@ body{
     top: 0px;
     left: 45%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none;
     user-select: none;
-    background: #2A2A29;
+    background: #DB0720;
 }
 #hotel:hover { background: #DB0720; }
 #hotel:active { background: #ffffffbe; }
@@ -108,9 +128,14 @@ body{
     top: 0px;
     left: 54%;
     height: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80%;
+    line-height: 90%;
     text-decoration: none;
     user-select: none;
-    background: #DB0720;
+    background: #2A2A29;
 }
 #prog:hover { background: #DB0720; }
 #prog:active { background: #ffffffbe; }
