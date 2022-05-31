@@ -17,7 +17,7 @@ body{
     width: 3.8%;
     height: 67.9%;
     top: 16%;
-    left: 92%;
+    left: 94%;
     text-decoration: none;
     user-select: none;
 }
@@ -26,7 +26,7 @@ body{
     width: 3.8%;
     height: 67.9%;
     top: 16%;
-    left: 88%;
+    left: 89%;
     text-decoration: none;
     user-select: none;
 }
@@ -40,20 +40,19 @@ body{
     user-select: none;
 }
 #logo{
-    position: relative;
-    width: 257px;
-    height: 71px;
-    left: 1px;
-    top: 0px;
+    position: absolute;
+    width: 18%;
+    height: 100%;
+    left: 0;
+    top: 0%;
     overflow: hidden;
-
 }
 #qwe{
     position: absolute;
-width: 319px;
-height: 301px;
-left: -15.5%;
-top: -142%;
+    width: 115%;
+    height: 357%;
+    left: -15%;
+    top: -116%;
 }
 #glavnaya1{   
     position: absolute;
@@ -64,7 +63,7 @@ top: -142%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 80%;
+    font-size: 70%;
     line-height: 90%;
     background: #2A2A29;
 }
@@ -79,7 +78,7 @@ top: -142%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 80%;
+    font-size: 70%;
     line-height: 90%;
     text-decoration: none; /* убирать подчёркивание у ссылок */
     user-select: none; /* убирать выделение текста */
@@ -96,7 +95,7 @@ top: -142%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 80%;
+    font-size: 70%;
     line-height: 90%;
     text-decoration: none;
     user-select: none;
@@ -113,7 +112,7 @@ top: -142%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 80%;
+    font-size: 70%;
     line-height: 90%;
     text-decoration: none;
     user-select: none;
@@ -130,7 +129,7 @@ top: -142%;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 80%;
+    font-size: 70%;
     line-height: 90%;
     text-decoration: none;
     user-select: none;
